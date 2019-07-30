@@ -1,5 +1,5 @@
 <?php
-/*agrego actor*/
+/*agrego el require de Actor*/
 	require_once 'classes/connection.php';
 	require_once 'classes/Actor.php';
 	require_once 'classes/Movie.php';
